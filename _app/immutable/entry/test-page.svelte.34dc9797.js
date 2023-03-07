@@ -1,0 +1,1 @@
+import{S as s,i as n,s as a}from"../chunks/index.b4e3455d.js";import{e as o}from"../chunks/state.f5148a6b.js";function r(e){async function t(){await o.auth.getUser()}return t(),[]}class c extends s{constructor(t){super(),n(this,t,r,null,a,{})}}export{c as default};
